@@ -80,6 +80,13 @@ sections:
         #   date_start: '2016-01-01'
         #   date_end: '2020-12-31'
         #   description: Taught electronic engineering and researched semiconductor physics.
+        - title: TA
+          description: |2-
+              * Fall 2020: ECE 4110 Random Signals in Communications and Signal Processing
+              * Fall 2021: ECE 4110 COMBINED-XLIST Random Signals in Communications and Signal Processing
+              * Spring 2022: MATH 4710 Basic Probability
+              * Fall 2022: MATH 4220/5220 Applied Complex Analysis
+              * Spring 2023: MATH 4140 Honors Introduction to Analysis II
     design:
       columns: '2'
   # - block: accomplishments
@@ -279,22 +286,5 @@ sections:
   #   design:
   #     columns: '2'
 
-  - block: teaching
-    id: teaching
-    content:
-      title: Teaching
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: TA
-          description: |2-
-              * Fall 2020: ECE 4110 Random Signals in Communications and Signal Processing
-              * Fall 2021: ECE 4110 COMBINED-XLIST Random Signals in Communications and Signal Processing
-              * Spring 2022: MATH 4710 Basic Probability
-              * Fall 2022: MATH 4220/5220 Applied Complex Analysis
-              * Spring 2023: MATH 4140 Honors Introduction to Analysis II
 
 ---
