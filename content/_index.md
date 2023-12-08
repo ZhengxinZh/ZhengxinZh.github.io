@@ -291,8 +291,8 @@ sections:
             * Spring 2022: MATH 4710 Basic Probability
             * Fall 2022: MATH 4220/5220 Applied Complex Analysis
             * Spring 2023: MATH 4140 Honors Introduction to Analysis II
-    design:
-      columns: '1'
+#    design:
+#      columns: '1'
 
 
 ---
