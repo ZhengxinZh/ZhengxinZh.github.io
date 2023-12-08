@@ -81,6 +81,9 @@ sections:
         #   date_end: '2020-12-31'
         #   description: Taught electronic engineering and researched semiconductor physics.
         - title: TA
+          company: IBM
+          date_start: ' '
+          date_end: ' '
           description: |2-
               * Fall 2020: ECE 4110 Random Signals in Communications and Signal Processing
               * Fall 2021: ECE 4110 COMBINED-XLIST Random Signals in Communications and Signal Processing
