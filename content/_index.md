@@ -67,8 +67,8 @@ sections:
           company_url: 'https://mitibmwatsonailab.mit.edu/'
           # company_logo: org-gc
           location: Boston
-          date_start: '2023.05.22'
-          date_end: '2023.08.11'
+          date_start: '2023-05-22'
+          date_end: '2023-08-11'
           description: |2-
               Research project: Gradient flow in probability spaces.
         # - title: Professor of Semiconductor Physics
