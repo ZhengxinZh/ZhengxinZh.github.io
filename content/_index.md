@@ -280,7 +280,7 @@ sections:
   #     columns: '2'
 
 
-  - block: collection
+  - block: accomplishments
     id: teaching
     content:
       title: Teaching
