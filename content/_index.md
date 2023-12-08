@@ -80,16 +80,6 @@ sections:
         #   date_start: '2016-01-01'
         #   date_end: '2020-12-31'
         #   description: Taught electronic engineering and researched semiconductor physics.
-        - title: TA
-          company: IBM
-          date_start: '2023-05-22'
-          date_end: '2023-08-11'
-          description: |2-
-              * Fall 2020: ECE 4110 Random Signals in Communications and Signal Processing
-              * Fall 2021: ECE 4110 COMBINED-XLIST Random Signals in Communications and Signal Processing
-              * Spring 2022: MATH 4710 Basic Probability
-              * Fall 2022: MATH 4220/5220 Applied Complex Analysis
-              * Spring 2023: MATH 4140 Honors Introduction to Analysis II
     design:
       columns: '2'
   # - block: accomplishments
@@ -294,12 +284,13 @@ sections:
     id: teaching
     content:
       title: Teaching
-          text: |2- TA for:
-              * Fall 2020: ECE 4110 Random Signals in Communications and Signal Processing
-              * Fall 2021: ECE 4110 COMBINED-XLIST Random Signals in Communications and Signal Processing
-              * Spring 2022: MATH 4710 Basic Probability
-              * Fall 2022: MATH 4220/5220 Applied Complex Analysis
-              * Spring 2023: MATH 4140 Honors Introduction to Analysis II
+      text: |2-
+            TA for:
+            * Fall 2020: ECE 4110 Random Signals in Communications and Signal Processing
+            * Fall 2021: ECE 4110 COMBINED-XLIST Random Signals in Communications and Signal Processing
+            * Spring 2022: MATH 4710 Basic Probability
+            * Fall 2022: MATH 4220/5220 Applied Complex Analysis
+            * Spring 2023: MATH 4140 Honors Introduction to Analysis II
     design:
       columns: '1'
 
