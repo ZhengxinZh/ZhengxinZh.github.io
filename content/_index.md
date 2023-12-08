@@ -284,15 +284,15 @@ sections:
     id: teaching
     content:
       title: Teaching
-      text: '|2-
+      text: |2-
             TA for:
             * Fall 2020: ECE 4110 Random Signals in Communications and Signal Processing
             * Fall 2021: ECE 4110 COMBINED-XLIST Random Signals in Communications and Signal Processing
             * Spring 2022: MATH 4710 Basic Probability
             * Fall 2022: MATH 4220/5220 Applied Complex Analysis
-            * Spring 2023: MATH 4140 Honors Introduction to Analysis II'
-#    design:
-#      columns: '1'
+            * Spring 2023: MATH 4140 Honors Introduction to Analysis II
+    design:
+      columns: '1'
 
 
 ---
