@@ -7,7 +7,7 @@ authors:
 - Youssef Mroueh
 - Bharath K Sriperumbudur
 date: '2024-07-16'
-publishDate: '2023-12-08T01:18:34.092425Z'
+publishDate: 'Tue, 16 Jul 2024 14:53:23 UTC'
 publication_types:
 - paper-arxiv
 publication: '**'
