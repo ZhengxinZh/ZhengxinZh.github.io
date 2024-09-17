@@ -117,5 +117,5 @@ social:
 highlight_name: true
 ---
 
-I'm a 5th year PhD student in Applied Mathematics at Cornell University, where I am fortunate to be advised by Ziv Goldfeld. My research interests include machine learning theory and high dimensional statistics, with a particular focus on optimal transport. My recent focus centers on the Gromov-Wasserstein distance, which is a fascinating interplay between classial optimal transport and metric geometry.
+I am a final year PhD student in Applied Mathematics at Cornell University, where I am fortunate to be advised by Ziv Goldfeld. My research interests include mathematical theories for machine learning and high dimensional statistics, with a particular focus on optimal transport. My recent focus centers on the Gromov-Wasserstein distance, which is a fascinating interplay between classial optimal transport and metric geometry.
 {style="text-align: justify;"}
