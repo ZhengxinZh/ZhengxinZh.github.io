@@ -291,6 +291,7 @@ sections:
             * Spring 2022: MATH 4710 Basic Probability
             * Fall 2022: MATH 4220/5220 Applied Complex Analysis
             * Spring 2023: MATH 4140 Honors Introduction to Analysis II
+            * Spring 2024: ECE 4200 Fundamentals of Machine Learning
     design:
       columns: '1'
 
