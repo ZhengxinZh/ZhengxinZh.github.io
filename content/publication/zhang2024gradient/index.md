@@ -10,6 +10,6 @@ date: '2024-07-16'
 publishDate: 'Tue, 16 Jul 2024 14:53:23 UTC'
 publication_types:
 - paper-arxiv
-publication: '*arXiv preprint arXiv:2407.11800*, submitted to Foundations of Computational Mathematics'
+publication: '*arXiv preprint arXiv:2407.11800*, Accepted at Foundations of Computational Mathematics'
 url_pdf: 'https://arxiv.org/abs/2407.11800'
 ---
