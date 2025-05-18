@@ -102,14 +102,14 @@ sections:
   #     # Reduce spacing
   #     spacing:
   #       padding: [0, 0, 0, 0]
-    - block: collection
+  - block: collection
     id: publications
     content:
       title: Publications
       text: |-
-#        {{% callout note %}}
-#        Quickly discover relevant content by [filtering publications](./publication/).
-#        {{% /callout %}}
+  #        {{% callout note %}}
+  #        Quickly discover relevant content by [filtering publications](./publication/).
+  #        {{% /callout %}}
       filters:
         folders:
           - publication
