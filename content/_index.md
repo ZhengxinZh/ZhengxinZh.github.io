@@ -117,7 +117,7 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: experience
+  - block: collection
     id: experience
     content:
       title: Experience
