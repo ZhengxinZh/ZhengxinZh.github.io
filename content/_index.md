@@ -120,7 +120,7 @@ sections:
   - block: collection
     id: work_experience
     content:
-      title: Experience
+      title: Work Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
